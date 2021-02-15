@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7707914.chunk.css",
+    "main.js": "/static/js/main.27d34335.chunk.js",
+    "main.js.map": "/static/js/main.27d34335.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.79befa82.js",
+    "runtime-main.js.map": "/static/js/runtime-main.79befa82.js.map",
+    "static/js/2.831639a4.chunk.js": "/static/js/2.831639a4.chunk.js",
+    "static/js/2.831639a4.chunk.js.map": "/static/js/2.831639a4.chunk.js.map",
+    "static/js/3.8f1831b4.chunk.js": "/static/js/3.8f1831b4.chunk.js",
+    "static/js/3.8f1831b4.chunk.js.map": "/static/js/3.8f1831b4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f7707914.chunk.css.map": "/static/css/main.f7707914.chunk.css.map",
+    "static/js/2.831639a4.chunk.js.LICENSE.txt": "/static/js/2.831639a4.chunk.js.LICENSE.txt",
+    "static/media/CloudySunset.ebe308ab.mp4": "/static/media/CloudySunset.ebe308ab.mp4",
+    "static/media/clear.795a3103.mp4": "/static/media/clear.795a3103.mp4",
+    "static/media/cloudy.e473d617.mp4": "/static/media/cloudy.e473d617.mp4",
+    "static/media/rain.6e21349c.mp4": "/static/media/rain.6e21349c.mp4",
+    "static/media/snowy.85b9aacf.mp4": "/static/media/snowy.85b9aacf.mp4",
+    "static/media/thunder.d3f643de.mp4": "/static/media/thunder.d3f643de.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79befa82.js",
+    "static/js/2.831639a4.chunk.js",
+    "static/css/main.f7707914.chunk.css",
+    "static/js/main.27d34335.chunk.js"
+  ]
+}
